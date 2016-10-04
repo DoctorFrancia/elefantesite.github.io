@@ -1,0 +1,6 @@
+---
+title: Test
+date: 2016-10-04 17:44:00 Z
+---
+
+Prueba de un post
