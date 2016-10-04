@@ -1,5 +1,5 @@
 ---
-title: Your awesome title
+title: Demo De SiteLeaf
 timezone: UTC
 collections:
   posts:
@@ -11,16 +11,15 @@ collections:
 title-bold: Forty
 title-normal: by HTML5 UP
 email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under
-  the Creative Commons.
-baseurl: ''
-url: ''
+description: 'Prueba de Jekyll + Siteleaf '
+baseurl: 
+url: 
 author: 
 street_address: 1234 Somewhere Road
 city: Nashville
-state: TN
+state: Asuncion
 zip_code: 55555
-country: United States of America
+country: Paraguay
 phone: "(716) 555-5555"
 gems:
 - jekyll-sitemap
