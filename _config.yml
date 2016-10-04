@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -13,14 +14,38 @@ description: A responsive site template designed by HTML5 Up<br /> and released 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
+=======
+---
+title: Demo De SiteLeaf
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+title-bold: Forty
+title-normal: by HTML5 UP
+email: youremailaddress@gmail.com
+description: 'Prueba de Jekyll + Siteleaf '
+baseurl: 
+url: 
+author: 
+>>>>>>> origin/master
 street_address: 1234 Somewhere Road
 city: Nashville
-state: TN
+state: Asuncion
 zip_code: 55555
+<<<<<<< HEAD
 country: United States of America
 phone: (716) 555-5555
 
 # Plugins
+=======
+country: Paraguay
+phone: "(716) 555-5555"
+>>>>>>> origin/master
 gems:
   - jekyll-sitemap
   - jekyll-seo-tag
